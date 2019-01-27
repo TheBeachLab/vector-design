@@ -13,3 +13,7 @@ In this exercise I am replicating the faces seen in [this tutorial](https://www.
 In here I followed [this](https://www.youtube.com/watch?v=xvGP8-FsPMY) character tutorial. This is a different style, with strokes and a different palette . I learned about [svgpathtools](https://github.com/mathandy/svgpathtools) a nice extension for Inkscape to create fillets and chamfers to paths. And also I mastered the division, union and difference of paths.
 
 ![characters](woodcutter.svg)
+
+## Exercise 3
+
+Drawing Neil Gershenfeld for the first episode of Fab Academy Chronicle. Inspired by [this](https://www.youtube.com/watch?v=VvZGTfNx01M) tutorial.
