@@ -14,6 +14,12 @@ In here I followed [this](https://www.youtube.com/watch?v=xvGP8-FsPMY) character
 
 ![characters](woodcutter.svg)
 
-## Exercise 3
+## Exercise 3 WIP
 
 Drawing Neil Gershenfeld for the first episode of Fab Academy Chronicle. Inspired by [this](https://www.youtube.com/watch?v=VvZGTfNx01M) tutorial.
+
+## Exercise 4
+
+Flat design structural support members. Original SVG [here](structural/structural.svg), it cannot be properly seen on the browser.
+
+![structural-supports](structural/structural.png)
